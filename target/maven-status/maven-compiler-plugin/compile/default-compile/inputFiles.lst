@@ -1,0 +1,5 @@
+/home/docker/speedv1/src/main/java/com/spectrum/speed/api/HealthCheckApiController.java
+/home/docker/speedv1/src/main/java/com/spectrum/speed/api/InfoEndpoint.java
+/home/docker/speedv1/src/main/java/com/spectrum/speed/config/RootConfig.java
+/home/docker/speedv1/src/main/java/com/spectrum/speed/config/WebMvcConfig.java
+/home/docker/speedv1/src/main/java/com/spectrum/speed/init/SpeedWebApplicationInitializer.java
